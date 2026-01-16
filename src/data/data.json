@@ -1,0 +1,843 @@
+{
+    "highlights": [
+        {
+            "text": "Innovative Solutions"
+        },
+        {
+            "text": "Strategic Partnerships"
+        },
+        {
+            "text": "Expertise and Consulting"
+        },
+        {
+            "text": "Customized Solutions"
+        },
+        {
+            "text": "Timely and Reliable"
+        },
+        {
+            "text": "Continuous Improvement"
+        }
+    ],
+    "userImages" : [
+        { "orbit": "inner", "className": "orbit-i1", "src": "avatar1"
+        },
+        { "orbit": "inner", "className": "orbit-i2", "src": "avatar2"
+        },
+        { "orbit": "inner", "className": "orbit-i3", "type": "dot"
+        },
+        { "orbit": "middle", "className": "orbit-m1", "src": "avatar3"
+        },
+        { "orbit": "middle", "className": "orbit-m2", "type": "dot"
+        },
+        { "orbit": "middle", "className": "orbit-m3", "src": "avatar4"
+        },
+        { "orbit": "middle", "className": "orbit-m4", "type": "dot"
+        },
+        { "orbit": "middle", "className": "orbit-m5", "src": "avatar5"
+        },
+        { "orbit": "outer", "className": "orbit-o1", "src": "avatar6"
+        },
+        { "orbit": "outer", "className": "orbit-o2", "src": "avatar7"
+        },
+        { "orbit": "outer", "className": "orbit-o3", "src": "avatar8"
+        },
+        { "orbit": "outer", "className": "orbit-o4", "src": "avatar9"
+        },
+        { "orbit": "outer", "className": "orbit-o5", "src": "avatar10"
+        },
+        { "orbit": "outer", "className": "orbit-o6", "type": "dot"
+        },
+        { "orbit": "outer", "className": "orbit-o7", "type": "dot"
+        },
+        { "orbit": "outer", "className": "orbit-o8", "type": "dot"
+        },
+        { "orbit": "outer", "className": "orbit-o9", "type": "dot"
+        }
+    ],
+
+    "Counters": [
+        {
+            "counting": "150",
+            "field": "Complete Projects"
+        },
+        {
+            "counting": "100",
+            "field": "Team Members"
+        },
+        {
+            "counting": "200",
+            "field": "Client Reviews"
+        },
+        {
+            "counting": "20",
+            "field": "Wining Award"
+        }
+    ],
+    "heroSection2": [
+        {
+            "class": "hero-img-card-1",
+            "title": "smart growth strategy",
+            "src": "smart_growth_strategy"
+        },
+        {
+            "class": "hero-img-card-2",
+            "title": "Marketing strategy",
+            "src": "Marketing_strategy"
+        },
+        {
+            "class": "hero-img-card-3",
+            "title": "creative solutions",
+            "src": "creative_solutions"
+        }
+    ],
+    "heroSection3Btn": [
+        {
+            "lable": "start Free Trial",
+            "icon": null,
+            "class": "rounded-pill d-sm-block d-none"
+        },
+        {
+            "lable": null,
+            "icon": "ri-arrow-left-s-line",
+            "class": "rounded-circle d-sm-none d-block px-2 py-1 me-2"
+        }
+    ],
+    "userAvatars": [
+        {
+            "type": "image",
+            "src": "avatar1",
+            "tooltip": [
+                {
+                    "Name": "Liam Carter",
+                    "content": "Helped scale our business faster than expected "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "src": "avatar11",
+            "tooltip": [
+                {
+                    "Name": "Samuel Okafor",
+                    "content": "Helped our business grow faster with smart strategies and real results."
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "src": "avatar3",
+            "tooltip": [
+                {
+                    "Name": "Isabella Moretti",
+                    "content": "Helped scale our business faster than we imagined."
+                }
+            ]
+        },
+        {
+            "type": "more",
+            "tooltip": [
+                {
+                    "Name": "",
+                    "content": "Add more"
+                }
+            ]
+        }
+    ],
+    "logoImages": [
+        {
+            "src": "logo1",
+            "Name": "google"
+        },
+        {
+            "src": "logo2",
+            "Name": "netflix"
+        },
+        {
+            "src": "logo3",
+            "Name": "paypal"
+        },
+        {
+            "src": "logo4",
+            "Name": "samsung"
+        },
+        {
+            "src": "logo5",
+            "Name": "visa"
+        },
+        {
+            "src": "logo6",
+            "Name": "amozonpay"
+        },
+        {
+            "src": "logo7",
+            "Name": "lenovo"
+        },
+        {
+            "src": "logo8",
+            "Name": "yahoo"
+        },
+        {
+            "src": "logo9",
+            "Name": "canon"
+        },
+        {
+            "src": "logo10",
+            "Name": "discover"
+        },
+        {
+            "src": "logo11",
+            "Name": "flaticon"
+        },
+        {
+            "src": "logo12",
+            "Name": "shopify"
+        }
+    ],
+    "serviceData": [
+        {
+            "src": "icon1",
+            "title": "Growth Strategy",
+            "subtitle": "Build a clear roadmap for sustainable growth.",
+            "features": [
+                "Customized Solutions",
+                "Timely and Reliable",
+                "Continuous Improvement"
+            ],
+            "number": "01"
+        },
+        {
+            "src": "icon2",
+            "title": "Market Research",
+            "subtitle": "Make informed decisions backed by real data.",
+            "features": [
+                "Industry & competitor analysis",
+                "Target audience research",
+                "Product-market fit validation"
+            ],
+            "number": "02"
+        },
+        {
+            "src": "icon3",
+            "title": "Brand Positioning",
+            "subtitle": "Define uniquely what makes your brand stand out.",
+            "features": [
+                "Unique value proposition (UVP)",
+                "Brand voice & messaging",
+                "Competitive differentiation"
+            ],
+            "number": "03"
+        },
+        {
+            "src": "icon4",
+            "title": "Digital Marketing",
+            "subtitle": "Drive leads with powerful, targeted campaigns.",
+            "features": [
+                "SEO & content marketing",
+                "Paid advertising (Google)",
+                "Email marketing & automation"
+            ],
+            "number": "04"
+        },
+        {
+            "src": "icon5",
+            "title": "Creative Business Solutions",
+            "subtitle": "Solve complex problems with innovative ideas.",
+            "features": [
+                "Business model innovation",
+                "Process optimization",
+                "New product or service ideation"
+            ],
+            "number": "05"
+        },
+        {
+            "src": "icon6",
+            "title": "Financial Planning",
+            "subtitle": "Plan your budget around strategic business goals.",
+            "features": [
+                "Pricing strategy",
+                "Budget allocation",
+                "profitability analysis"
+            ],
+            "number": "06"
+        }
+    ],
+    "featureData": [
+        {
+            "src": "growth_strategy",
+            "alt": "growth_strategy",
+            "icon": "ri-line-chart-line",
+            "content": "Smarter Growth Starts With Real-Time Insights"
+        },
+        {
+            "src": "powerfull_tools",
+            "alt": "powerfull_tools",
+            "icon": "ri-rocket-2-line",
+            "content": "Powerful Tools to Fuel Your Business Expansion"
+        },
+        {
+            "src": "marketing_managment",
+            "alt": "marketing_managment",
+            "icon": "ri-group-line",
+            "content": "Your Brand, Everywhere Your Customers Want To Be"
+        },
+        {
+            "src": "automated_marketing",
+            "alt": "automated_marketing",
+            "icon": "ri-hourglass-line",
+            "content": "Automated Marketing That Saves Time and Delivers Results"
+        },
+        {
+            "src": "growth_chart",
+            "alt": "growth_chart",
+            "icon": "ri-bar-chart-box-line",
+            "content": "The process of tracking profit is hassle free anytime anywhere"
+        }
+    ],
+    "priceData": [
+        {
+            "title": "Starter",
+            "level": "Basic",
+            "content": "Perfect for individuals.",
+            "monthlyPrice": "29",
+            "yearlyPrice": "278",
+            "benefits": [
+                "Team members:1",
+                "Users: Unlimited",
+                "Integration :Unlimited",
+                "Total Messages:150",
+                "Assistants:2"
+            ]
+        },
+        {
+            "title": "Bussiness",
+            "level": "Basic",
+            "content": "Perfect for small bussinesses.",
+            "monthlyPrice": "39",
+            "yearlyPrice": "374",
+            "benefits": [
+                "Team members:3",
+                "Users: Unlimited",
+                "Integration :Unlimited",
+                "Total Messages:650",
+                "Assistants:5"
+            ]
+        },
+        {
+            "title": "Professional",
+            "level": "Pro",
+            "content": "Perfect for larger bussiness.",
+            "monthlyPrice": "59",
+            "yearlyPrice": "566",
+            "benefits": [
+                "Team members:5",
+                "Users: Unlimited",
+                "Integration :Unlimited",
+                "Total Messages:1650",
+                "Assistants:12"
+            ]
+        }
+    ],
+    "contactData": [
+        {
+            "icon": "ri-phone-fill",
+            "title": "Contact Us",
+            "type": "contactinfo",
+            "details": [
+                "01-000-999-333",
+                "sivociagency@gmail.com"
+            ]
+        },
+        {
+            "icon": "ri-map-pin-2-line",
+            "title": "Location",
+            "type": "address",
+            "details": "21 Innovation Avenue, Suite 403 Business Park, Sector 18B Mumbai, Maharashtra 400072, India"
+        },
+        {
+            "icon": "ri-calendar-schedule-line",
+            "title": "Hours",
+            "type": "hours",
+            "details": [
+                "Service available : 24/7",
+                "Office timing : 8am-6pm M-F"
+            ]
+        }
+    ],
+    "socialIconData": [
+        {
+            "href": "https://www.instagram.com/",
+            "class": "insta-icon",
+            "icon": "ri-instagram-line"
+        },
+        {
+            "href": "https://www.whatsapp.com/",
+            "class": "whatsapp-icon",
+            "icon": "ri-whatsapp-line"
+        },
+        {
+            "href": "https://x.com/?lang=en",
+            "class": "twitter-icon",
+            "icon": "ri-twitter-line"
+        },
+        {
+            "href": "https://www.facebook.com/",
+            "class": "facebook-icon",
+            "icon": "ri-facebook-circle-fill"
+        },
+        {
+            "href": "https://in.linkedin.com/",
+            "class": "linkedin-icon",
+            "icon": "ri-linkedin-fill"
+        },
+        {
+            "href": "https://www.youtube.com/",
+            "class": "youtube-icon",
+            "icon": "ri-youtube-fill"
+        }
+    ],
+    "accordionItemData": [
+        {
+            "evenkey": "1",
+            "type": "General",
+            "question": "How can your agency help grow my business?",
+            "answer": "We combine data-driven insights with creative strategy to boost your brand visibility, drive more traffic, and convert leads into loyal customers."
+        },
+        {
+            "evenkey": "2",
+            "type": "Pricing",
+            "question": "How much do your services cost?",
+            "answer": "Our pricing plans start at $19/month, with flexible packages tailored to your business goals."
+        },
+        {
+            "evenkey": "3",
+            "type": "Process",
+            "question": "What is the onboarding process like?",
+            "answer": "We start with a discovery call to understand your business, followed by a custom strategy plan."
+        },
+        {
+            "evenkey": "4",
+            "type": "Pricing",
+            "question": "Do you offer a free trial?",
+            "answer": "Yes, we offer a 7-day free trial so you can explore our tools and see the value before committing."
+        },
+        {
+            "evenkey": "5",
+            "type": "General",
+            "question": "How do I get started?",
+            "answer": "Simply reach out through our contact form or book a free consultation. We’ll assess your needs and propose a custom growth plan."
+        },
+        {
+            "evenkey": "6",
+            "type": "Services",
+            "question": "What services does your agency offer?",
+            "answer": "We offer marketing strategy, branding, SEO, social media management, and lead generation to help businesses grow."
+        },
+        {
+            "evenkey": "7",
+            "type": "Services",
+            "question": "Do you provide custom growth strategies?",
+            "answer": "Yes, we create tailored strategies based on your business goals, industry, and target audience."
+        },
+        {
+            "evenkey": "8",
+            "type": "Pricing",
+            "question": "Can I change my plan later?",
+            "answer": "Absolutely! You can upgrade or downgrade your plan anytime based on your needs."
+        },
+        {
+            "evenkey": "9",
+            "type": "General",
+            "question": "Who can benefit from your services?",
+            "answer": "Our services are designed for startups, small to medium businesses, and enterprises looking to scale, improve online presence, or optimize operations."
+        },
+        {
+            "evenkey": "10",
+            "type": "General",
+            "question": "Is my business too small to work with you?",
+            "answer": "Not at all! We work with businesses of all sizes and offer scalable solutions that fit your current stage and future growth."
+        },
+        {
+            "evenkey": "11",
+            "type": "Pricing",
+            "question": "Do you offer any discount on yearly plans?",
+            "answer": "Yes! When you choose a yearly plan, you receive an exclusive discount of up to 20% compared to monthly billing. This allows you to save more while enjoying uninterrupted access to all our premium features."
+        },
+        {
+            "evenkey": "12",
+            "type": "Process",
+            "question": "Will I get regular updates on progress?",
+            "answer": "Yes, we provide weekly reports and monthly strategy calls to review performance."
+        },
+        {
+            "evenkey": "13",
+            "type": "Process",
+            "question": "Can I be involved in the decision-making process?",
+            "answer": "Absolutely. We believe in collaboration and value your input at every stage."
+        },
+        {
+            "evenkey": "14",
+            "type": "Process",
+            "question": "How long does it take to see results?",
+            "answer": "Results typically begin within 4–6 weeks, depending on your goals and industry."
+        },
+        {
+            "evenkey": "15",
+            "type": "Services",
+            "question": "Do you offer social media marketing services?",
+            "answer": "Yes, we manage content creation, scheduling, engagement, and paid ads on platforms like Instagram, Facebook, and LinkedIn."
+        },
+        {
+            "evenkey": "16",
+            "type": "Services",
+            "question": "What kind of analytics or reporting do you provide?",
+            "answer": "We provide monthly performance reports with insights on traffic, conversions, ROI, and suggestions for improvement."
+        }
+    ],
+    "footerData": [
+        {
+            "class": "col-lg-2",
+            "title": "Agency",
+            "links": [
+                {
+                    "href": "#home",
+                    "text": "Home"
+                },
+                {
+                    "href": "#aboutus",
+                    "text": "About Us"
+                },
+                {
+                    "href": "#services",
+                    "text": "Service"
+                },
+                {
+                    "href": "#features",
+                    "text": "Features"
+                },
+                {
+                    "href": "#pricing",
+                    "text": "Pricing"
+                },
+                {
+                    "href": "#contactus",
+                    "text": "Contact Us"
+                }
+            ]
+        },
+        {
+            "class": "col-lg-3",
+            "title": "Service",
+            "links": [
+                {
+                    "href": "#services",
+                    "text": "Growth Strategy"
+                },
+                {
+                    "href": "#services",
+                    "text": "Market Research"
+                },
+                {
+                    "href": "#services",
+                    "text": "Brand Positioning"
+                },
+                {
+                    "href": "#services",
+                    "text": "Digital Marketing"
+                },
+                {
+                    "href": "#services",
+                    "text": "Creative Business Solutions"
+                },
+                {
+                    "href": "#services",
+                    "text": "Financial Planning"
+                }
+            ]
+        },
+        {
+            "class": "col-lg-3",
+            "title": "Help",
+            "links": [
+                {
+                    "href": "#supportcenter",
+                    "text": "Support Center"
+                },
+                {
+                    "href": "#termsandcondition",
+                    "text": "Terms & Condition"
+                },
+                {
+                    "href": "#disclaimer",
+                    "text": "Disclaimer"
+                },
+                {
+                    "href": "#FAQs",
+                    "text": "FAQs"
+                }
+            ]
+        }
+    ],
+    "footerContact": [
+        {
+            "type": "phone",
+            "icon": "ri-phone-fill",
+            "title": "Contact",
+            "content": "01-000-999-333"
+        },
+        {
+            "type": "location",
+            "icon": "ri-map-pin-2-line",
+            "title": "Location",
+            "content": "21 Innovation Avenue, Suite 403\nBusiness Park, Sector 18B\nMumbai, Maharashtra 400072,\n India"
+        },
+        {
+            "type": "email",
+            "icon": "ri-mail-line",
+            "title": "Send Email",
+            "content": "sivociagency@gmail.com"
+        }
+    ],
+    "authFormData": [
+        {
+            "type": "text",
+            "placeholder": "Company Name"
+        },
+        {
+            "type": "email",
+            "placeholder": "Email Address"
+        },
+        {
+            "type": "password",
+            "placeholder": "Enter Password"
+        }
+    ],
+    "userImageData": [
+        {
+            "column": "col-6 col-xl-4",
+            "className": "d-flex justify-content-around gap-3 mt-4 user-img-wrapper",
+            "groups": [
+                {
+                    "className": "d-flex flex-column align-self-end mt-5",
+                    "users": [
+                        {
+                            "index": 0,
+                            "src": "user1.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "src": "user2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "d-flex flex-column align-self-start",
+                    "users": [
+                        {
+                            "index": 2,
+                            "src": "user3.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "src": "user4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "align-self-center",
+                    "users": [
+                        {
+                            "index": 4,
+                            "src": "user5.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "column": "d-none d-xl-block col-md-4",
+            "className": "d-flex justify-content-around gap-3 user-img-wrapper",
+            "groups": [
+                {
+                    "className": "d-flex flex-column align-self-start",
+                    "users": [
+                        {
+                            "index": 5,
+                            "src": "user6.jpg"
+                        },
+                        {
+                            "index": 6,
+                            "src": "user7.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "align-self-center",
+                    "users": [
+                        {
+                            "index": 7,
+                            "src": "user8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "d-flex flex-column align-self-start",
+                    "users": [
+                        {
+                            "index": 8,
+                            "src": "user9.jpg"
+                        },
+                        {
+                            "index": 9,
+                            "src": "user10.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "column": "col-6 col-xl-4",
+            "className": "d-flex justify-content-around gap-3 mt-4 user-img-wrapper",
+            "groups": [
+                {
+                    "className": "align-self-center",
+                    "users": [
+                        {
+                            "index": 10,
+                            "src": "user11.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "d-flex flex-column align-self-start",
+                    "users": [
+                        {
+                            "index": 11,
+                            "src": "user12.jpg"
+                        },
+                        {
+                            "index": 12,
+                            "src": "user13.jpg"
+                        }
+                    ]
+                },
+                {
+                    "className": "d-flex flex-column align-self-end mt-5",
+                    "users": [
+                        {
+                            "index": 13,
+                            "src": "user14.jpg"
+                        },
+                        {
+                            "index": 14,
+                            "src": "user15.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "userInfo": [
+        {
+            "src": "user1.jpg",
+            "name": "Liam Carter",
+            "position": "Founder / CEO"
+        },
+        {
+            "src": "user2.jpg",
+            "name": "Emma Rivera",
+            "position": "Managing Director"
+        },
+        {
+            "src": "user3.jpg",
+            "name": "Isabella Moretti",
+            "position": "Marketing Manager"
+        },
+        {
+            "src": "user4.jpg",
+            "name": "Lina Petrov",
+            "position": "Content Strategist"
+        },
+        {
+            "src": "user5.jpg",
+            "name": "Noah Rossi",
+            "position": "Growth Marketer"
+        },
+        {
+            "src": "user6.jpg",
+            "name": "Sophia Kim",
+            "position": "Data Analyst"
+        },
+        {
+            "src": "user7.jpg",
+            "name": "Aarav Mehta",
+            "position": "SEO Specialist"
+        },
+        {
+            "src": "user8.jpg",
+            "name": "Leo Schneider",
+            "position": "Chief Growth Officer"
+        },
+        {
+            "src": "user9.jpg",
+            "name": "Maya Thompson",
+            "position": "SEO Specialist"
+        },
+        {
+            "src": "user10.jpg",
+            "name": "Olivia Hernández",
+            "position": "Data Analyst"
+        },
+        {
+            "src": "user11.jpg",
+            "name": "Milo Zhang",
+            "position": "Growth Marketer"
+        },
+        {
+            "src": "user12.jpg",
+            "name": "Siddharth Nair",
+            "position": "Chief Growth Officer"
+        },
+        {
+            "src": "user13.jpg",
+            "name": "Giulia Romano",
+            "position": "Managing Director"
+        },
+        {
+            "src": "user14.jpg",
+            "name": "Samuel Okafor",
+            "position": "Content Strategist"
+        },
+        {
+            "src": "user15.jpg",
+            "name": "Yuki Takahashi",
+            "position": "Marketing Manager"
+        }
+    ],
+    "authButton": [
+        {
+            "class": "btn-light",
+            "href": "",
+            "src": "google",
+            "content": "Continue with google"
+        },
+        {
+            "class": "btn-dark",
+            "href": "",
+            "src": "mac",
+            "content": "Continue with Apple"
+        }
+    ],
+    "footerButton": [
+        {
+            "href": "https://play.google.com/store/games?hl=en_IN",
+            "src": "playstore",
+            "text": "Google Play"
+        },
+        {
+            "href": "https://www.apple.com/in/app-store/",
+            "src": "apple",
+            "text": "App Store"
+        }
+    ]
+}

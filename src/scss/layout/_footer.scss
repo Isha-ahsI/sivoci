@@ -1,0 +1,28 @@
+//footer.scss
+footer {
+    .footer-section {
+        .footer-nav-link {
+            text-decoration: none;
+            color: $light;
+
+            &:hover {
+                color: $success;
+                text-decoration: underline;
+            }
+        }
+
+        .store-buttons-wrapper{
+            .store-button{
+                transition: $transition-base;
+                &:hover{
+                    transform: scale(0.9);
+                }
+            }
+        }
+    }
+
+    .footer-tagline {
+        background-color: darken($primary, 4%);
+        border-top: 1px solid rgba($white, 0.25);
+    }
+}

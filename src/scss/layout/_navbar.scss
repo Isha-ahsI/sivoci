@@ -1,0 +1,44 @@
+//navbar.scss
+
+.navbar {
+    &.navbar1,&.navbar3{
+        background-color: transparent;
+    }
+    &.navbar2{
+        background-color: rgba($light, 0.7);
+    }
+    &.navbar4{
+         background-color: $light;
+    }
+    &.nav-scroll{
+        position: sticky;
+        top: 0; 
+        background-color:$white; 
+        z-index: 999;
+    }
+    .nav-logo {
+        @media (min-width:768px) {
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            left: 0;
+            right: 0;
+            z-index: -1;
+        }
+    }
+
+    .navbar-toggler {
+        padding: $navbar-toggler-padding-y $navbar-toggler-padding-x;
+        border-width: .15rem;
+        transition: $navbar-toggler-transition;
+
+        &:hover {
+            transform: scale(0.9);
+        }
+
+        @media (min-width: 0) and (max-width: 575.98px) {
+            padding: 0.2rem 0.3rem;
+            font-size: 18px;
+        }
+    }
+}

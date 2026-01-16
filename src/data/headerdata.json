@@ -1,0 +1,44 @@
+{
+    "navItems": [
+        {
+            "label": "Home",
+            "href": "#home",
+            "icon": "ri-home-4-line"
+        },
+        {
+            "label": "About Us",
+            "href": "#aboutus",
+            "icon": "ri-information-line"
+        },
+        {
+            "label": "Services",
+            "href": "#services",
+            "icon": "ri-service-line"
+        },
+        {
+            "label": "Features",
+            "href": "#features",
+            "icon": "ri-star-line"
+        },
+        {
+            "label": "Pricing",
+            "href": "#pricing",
+            "icon": "ri-money-dollar-circle-line"
+        },
+        {
+            "label": "Contact Us",
+            "href": "#contactus",
+            "icon": "ri-send-plane-line"
+        },
+        {
+            "label": "Help",
+            "href": "#help",
+            "icon": "ri-question-line"
+        },
+        {
+            "label": "Log out",
+            "href": "#logout",
+            "icon": "ri-logout-circle-r-line"
+        }
+    ]
+}

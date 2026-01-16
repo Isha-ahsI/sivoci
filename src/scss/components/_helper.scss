@@ -1,0 +1,31 @@
+//helper.scss
+.section-lg {
+    padding: 100px 0px;
+}
+
+.underline-after {
+    &::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        right: 0;
+        transform: translateY(-50%);
+        height: 1px;
+        width: 50%;
+        background-color: rgba($primary, 0.3);
+    }
+}
+
+//hero-section 
+.hero-section-primary {
+    .hero-content {
+        ul {
+            &.list-1 {
+                @media (min-width:576px) {
+                    border-right: 2px solid $secondary;
+                }
+            }
+        }
+    }
+}

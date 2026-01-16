@@ -1,0 +1,52 @@
+//form
+form {
+    .input-group {
+        .form-control {
+            border-color: $light;
+            box-shadow: none;
+        }
+        .input-group-text {
+            background-color: $success;
+            color: $light;
+            border-color: transparent;
+            .input-icon {
+                transition: $transition-base;
+            }
+            &:hover {
+                .input-icon {
+                    transform: translateX(5px);
+                }
+            }
+        }
+    }
+
+    &.contactus-form {
+        .form-control,
+        .form-select {
+            border-radius: 0;
+            border-color: transparent;
+            box-shadow: none;
+        }
+    }
+
+    &.form-auth {
+        .form-control {
+            background-color: rgba($light, 0.6);
+            border: 2px solid transparent;
+            color: $primary;
+            &:focus {
+                box-shadow: 0 0 0 .25rem rgba($light, .7);
+            }
+        }
+
+        .form-check-input {
+            background-color: $light;
+            box-shadow: none;
+            border: 1px solid $secondary;
+            &:checked {
+                background-color: $primary;
+                border: 1px solid transparent;
+            }
+        }
+    }
+}

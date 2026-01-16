@@ -1,0 +1,21 @@
+//utilities.scss
+body{
+    font-family: $font-family-base !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+     font-family: $font-family-code;
+}
+
+@each $color, $value in $theme-colors{
+    .text-#{$color} {
+        color: $value !important;
+    }
+}
+
+.text-gradiant{
+    display: inline-block;
+    background:$gradient;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
