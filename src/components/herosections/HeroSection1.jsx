@@ -91,32 +91,19 @@ const HeroSection = () => {
                   <Image src={HeroImg} alt="..." className="img-fluid" />
                 </div>
                 <div className="metric position-absolute text-center">
-                  {/* <CountUp start={0} end={20000} delay={1} duration={5} separator="," formattingFn={(value) => {
-                    if (value >= 20000) {
-                      return (value / 1000).toFixed(0) + 'k';
-                    }
-                    return value;
-                  }} >
-                    {({ countUpRef }) => (
-                      <div>
-                        <h2 className="text-primary fw-semibold" ref={countUpRef} aria-label="20000">0</h2>
-                        <p className="text-secondary mb-0">Growth</p>
-                      </div>
-                    )}
-                  </CountUp> */}
-<h2 className="text-primary fw-semibold">
-  <CountUp
-    start={0}
-    end={20000}
-    duration={5}
-    formattingFn={(value) => {
-      if (value >= 20000) {
-                      return (value / 1000).toFixed(0) + 'k';
-                    }
-                    return value;
-                  }}
-  />
-</h2>
+                  <h2 className="text-primary fw-semibold">
+                    <CountUp
+                    start={0}
+                    end={20000}
+                    duration={3}
+                    formattingFn={(value) => {
+                      if (value >= 20000) {
+                        return (value / 1000).toFixed(0) + 'k';
+                      }
+                        return value;
+                      }}
+                    />
+                  </h2>
                 </div>
               </motion.div>
             </Col>
