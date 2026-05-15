@@ -91,7 +91,7 @@ const HeroSection = () => {
                   <Image src={HeroImg} alt="..." className="img-fluid" />
                 </div>
                 <div className="metric position-absolute text-center">
-                  <CountUp start={0} end={20000} delay={1} duration={5} separator="," formattingFn={(value) => {
+                  {/* <CountUp start={0} end={20000} delay={1} duration={5} separator="," formattingFn={(value) => {
                     if (value >= 20000) {
                       return (value / 1000).toFixed(0) + 'k';
                     }
@@ -103,7 +103,25 @@ const HeroSection = () => {
                         <p className="text-secondary mb-0">Growth</p>
                       </div>
                     )}
-                  </CountUp>
+                  </CountUp> */}
+                  <CountUp
+  start={0}
+  end={20000}
+  duration={5}
+  delay={1}
+  separator=","
+  formattingFn={(value) => {
+    if (value >= 20000) return "20k";
+    return value;
+  }}
+>
+  {(value) => (
+    <div>
+      <h2 className="text-primary fw-semibold">{value}</h2>
+      <p className="text-secondary mb-0">Growth</p>
+    </div>
+  )}
+</CountUp>
                 </div>
               </motion.div>
             </Col>
