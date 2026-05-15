@@ -104,24 +104,16 @@ const HeroSection = () => {
                       </div>
                     )}
                   </CountUp> */}
-                  <CountUp
-  start={0}
-  end={20000}
-  duration={5}
-  delay={1}
-  separator=","
-  formattingFn={(value) => {
-    if (value >= 20000) return "20k";
-    return value;
-  }}
->
-  {(value) => (
-    <div>
-      <h2 className="text-primary fw-semibold">{value}</h2>
-      <p className="text-secondary mb-0">Growth</p>
-    </div>
-  )}
-</CountUp>
+<h2 className="text-primary fw-semibold">
+  <CountUp
+    start={0}
+    end={20000}
+    duration={5}
+    formattingFn={(value) =>
+      value >= 1000 ? (value / 1000).toFixed(0) + "k" : value
+    }
+  />
+</h2>
                 </div>
               </motion.div>
             </Col>
