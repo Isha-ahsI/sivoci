@@ -99,7 +99,7 @@ const HeroSection = () => {
                   }} >
                     {({ countUpRef }) => (
                       <div>
-                        <h2 className="text-primary fw-semibold" ref={countUpRef}></h2>
+                        <h2 className="text-primary fw-semibold" ref={countUpRef} aria-label="20000">0</h2>
                         <p className="text-secondary mb-0">Growth</p>
                       </div>
                     )}
