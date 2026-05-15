@@ -111,10 +111,10 @@ const HeroSection = () => {
     duration={5}
     formattingFn={(value) => {
       if (value >= 20000) {
-        return "20k";
-      }
-      return Math.floor(value);
-    }}
+                      return (value / 1000).toFixed(0) + 'k';
+                    }
+                    return value;
+                  }}
   />
 </h2>
                 </div>
